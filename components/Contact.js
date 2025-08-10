@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ContactLinks() {
   return (
-    <div className="flex gap-4 items-center justify-center mt-6">
+    <div id="contact" className="flex gap-4 items-center justify-center mt-6">
       {/* GitHub */}
       <a
         href="https://github.com/hananpalemad"
